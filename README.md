@@ -8,10 +8,17 @@
 <div class="contain">
         <div class="texto">
             <h2>✨Sobre mim</h2>
-            <p>Meu objetivo atual é seguir na área de tecnologia. Tenho o sonho de construir projetos e consolidar minha própria empresa no ramo.</p>
+            <p>Meu objetivo atual é seguir na área de tecnologia. Tenho o sonho de construir projetos e consolidar minha própria empresa no ramo. Sou uma pessoa que adora criar memórias com amigos e família, ama explorar diferentes tipos de rolês e está sempre buscando novos hobbies. Entre uma série e outra, me encontro dançando, cuidando de mim mesma e sonhando com a próxima aventura na praia ou cachoeira!</p>
         </div>
 
-
+<div class="contain">
+        <div class="texto">
+            <h2>✨Sobre mim</h2>
+            <p> Quero expressar minha imensa gratidão a minha buddy Giovanna por me ajudar a criar minha página no GitHub. Sua paciência, dedicação e suporte fizeram toda a diferença nesse processo! Agradeço muito por compartilhar seu conhecimento e me guiar nesse aprendizado. Obrigada!</p>
+        </div>
+<div align="center"> 
+<a href="https://www.instagram.com/maripdsx?igsh=MXRqcjZvdzhwbHNqNw==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ </div>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Mariana-Pereira-de-Souza&show_icons=true&count_private=true&hide_border=true&title_color=a569bd&icon_color=a569bd&text_color=fdfefe&bg_color=0d1117" alt="Mariana github stats" /> 
