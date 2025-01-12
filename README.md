@@ -7,7 +7,7 @@
 
 <div class="contain">
         <div class="texto">
-            <h2>Sobre mim</h2>
+            <h2>✨Sobre mim</h2>
             <p>Meu objetivo atual é seguir na área de tecnologia. Tenho o sonho de construir projetos e consolidar minha própria empresa no ramo.</p>
         </div>
 
