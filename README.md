@@ -5,11 +5,13 @@
 <div align="center"><img src="https://i.pinimg.com/236x/6b/ff/d7/6bffd712e52a07ac092c36345fbb088b.jpg">
   <div/>
 
+<div align="left">
 <div class="contain">
         <div class="texto">
             <h2>✨Sobre mim</h2>
             <p>Meu objetivo atual é seguir na área de tecnologia. Tenho o sonho de construir projetos e consolidar minha própria empresa no ramo. Sou uma pessoa que adora criar memórias com amigos e família, ama explorar diferentes tipos de rolês e está sempre buscando novos hobbies. Entre uma série e outra, me encontro dançando, cuidando de mim mesma e sonhando com a próxima aventura na praia ou cachoeira!</p>
         </div>
+         </div>
 
 <div class="contain">
         <div class="texto">
