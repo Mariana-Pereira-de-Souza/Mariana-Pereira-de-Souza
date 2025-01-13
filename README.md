@@ -20,7 +20,7 @@
             <p> Quero expressar minha imensa gratidão a minha buddy Giovanna por me ajudar a criar minha página no GitHub. Sua paciência, dedicação e suporte fizeram toda a diferença nesse processo! Agradeço muito por compartilhar seu conhecimento e me guiar nesse aprendizado. Obrigada!</p>
         </div>
 <div align="center"> 
-<a href="https://www.instagram.com/maripdsx?igsh=MXRqcjZvdzhwbHNqNw==" target="_blank"><img src="https://img.shields.io/badge/-Buddy Github-%23E4405F?style=for-the-badge&logo=github&logoColor=white"</a>
+<a href="https://github.com/giovanna-britto" target="_blank"><img src="https://img.shields.io/badge/-Buddy Github-%23E4405F?style=for-the-badge&logo=github&logoColor=white"</a>
  </div>
 
 
